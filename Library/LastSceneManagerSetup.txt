@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/VideoCreator/Demo/Scenes/MovSample.unity
+- path: Assets/Younghak/03.Scenes/YH_Common.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
